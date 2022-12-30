@@ -10,6 +10,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 #include <stdlib.h>
     //int arr[9]={1,5,7,2,1,4,2,5,6};
     int arr[9]={1,2,3,4,5,6,7,8,9};
+
     int comp(const void *a,const void *b)
     {
         return (*(int *)a - *(int *)b);
