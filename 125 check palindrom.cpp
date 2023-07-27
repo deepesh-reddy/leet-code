@@ -20,8 +20,7 @@ int main()
         }
     }
     
-    
-    
+
     cout<<endl;
     for(int i=s.size()-1;i>=0;i--){
         int n=s[i];
